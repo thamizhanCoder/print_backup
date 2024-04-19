@@ -1,0 +1,36 @@
+<?php
+return [  
+'title' => [      
+'greetings_create' => 'New Greetings Created',
+      'greetings_update' => 'Greetings Updated',
+      'greetings_satatus' => 'Greetings status',
+      'greetings_delete' => 'Greetings deleted',
+      'video_create_title' => 'New Video added !',
+      'new_product_create' => 'New Products added !',
+      'featured_product' => 'Featured Product added !',
+      'new_offer' => 'New offer !',
+      'today_sales_offer' => 'Today Sales Offer !',
+      'out_of_stock' => 'Out of stock !',
+      'product_available' => 'Product available !',
+      'featured_product_updated' => 'Featured product updated !'   
+      ],
+   'body' => [      
+   	'product_create' => 'proname added by acl_name',
+      'featured_product' => 'proname featured product added',
+      'featured_product_update' => 'proname featured product updated',
+      'video_create' => 'videourl youtube video added by acl_name',
+      'product_update_new_offer' => 'New offer for this product proname',
+      'product_update_new_sales_offer' => 'proname having sales offer',
+      'product_update_ou_of_stock' => 'proname sold out',
+      'order_placed' => 'first_namelast_name new order placed code',
+      'payment_done' => 'first_name last_name paid the amount is "Rs paid_amount" for the order is code',
+      'notify_me' => 'proname quantity',
+      'admin_notify' => 'Hey.... This customer(first_name last_name) notify the proname',
+      'register' => 'new member registered first_name last_name',
+      'rating' => 'first_name last_name product_name',
+      'greetings' => 'New Greetings added in Admin portal',
+      'greetings_upate' => 'Greetings updated by admin',
+      'greetings_status' => 'Greetings status has been changed',
+      'greetings_delete' => 'Greetings has been changed deleted',
+   ],
+   ];
